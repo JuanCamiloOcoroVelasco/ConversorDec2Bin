@@ -8,4 +8,5 @@
 - Salsa de tomate
 - Queso (opcional)
 
-  
+[!WARNING]
+La salsa de tomate, preferiblemente casera
